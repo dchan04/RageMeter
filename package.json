@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dchan04/RageMeter#readme",
   "dependencies": {
+    "gh-pages": "^6.0.0",
     "lite-server": "^2.6.1",
     "tmi.js": "^1.8.5"
   }
