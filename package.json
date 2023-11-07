@@ -1,0 +1,23 @@
+{
+  "name": "ragemeter",
+  "version": "1.0.0",
+  "description": "Rage meter for twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchan04/RageMeter.git"
+  },
+  "author": "Darren Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchan04/RageMeter/issues"
+  },
+  "homepage": "https://github.com/dchan04/RageMeter#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tmi.js": "^1.8.5"
+  }
+}
